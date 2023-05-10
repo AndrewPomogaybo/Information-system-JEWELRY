@@ -1,0 +1,148 @@
+C:\Users\pomog\Desktop\jewellery\bin\Debug\jewellery.exe.config
+C:\Users\pomog\Desktop\jewellery\bin\Debug\jewellery.exe
+C:\Users\pomog\Desktop\jewellery\bin\Debug\jewellery.pdb
+C:\Users\pomog\Desktop\jewellery\obj\Debug\jewellery.csproj.AssemblyReference.cache
+C:\Users\pomog\Desktop\jewellery\obj\Debug\jewellery.Admin.resources
+C:\Users\pomog\Desktop\jewellery\obj\Debug\jewellery.Form1.resources
+C:\Users\pomog\Desktop\jewellery\obj\Debug\jewellery.Master.resources
+C:\Users\pomog\Desktop\jewellery\obj\Debug\jewellery.Properties.Resources.resources
+C:\Users\pomog\Desktop\jewellery\obj\Debug\jewellery.User.resources
+C:\Users\pomog\Desktop\jewellery\obj\Debug\jewellery.csproj.GenerateResource.cache
+C:\Users\pomog\Desktop\jewellery\obj\Debug\jewellery.csproj.CoreCompileInputs.cache
+C:\Users\pomog\Desktop\jewellery\obj\Debug\jewellery.exe
+C:\Users\pomog\Desktop\jewellery\obj\Debug\jewellery.pdb
+C:\Users\student.ZAMT\Desktop\jewellery\bin\Debug\jewellery.exe.config
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.exe
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.pdb
+C:\Users\student.ZAMT\Desktop\jewellery\bin\Debug\jewellery.exe
+C:\Users\student.ZAMT\Desktop\jewellery\bin\Debug\jewellery.pdb
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.csprojResolveAssemblyReference.cache
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.Add_offer.resources
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.Admin.resources
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.DB.resources
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.Form1.resources
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.Master.resources
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.Offers.resources
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.Products.resources
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.Properties.Resources.resources
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.User.resources
+C:\Users\student.ZAMT\Desktop\jewellery\obj\Debug\jewellery.csproj.GenerateResource.Cache
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо\bin\Debug\jewellery.exe.config
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо\obj\Debug\jewellery.exe
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\jewellery.exe.config
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\jewellery.exe
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\jewellery.pdb
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\MySql.Data.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\Google.Protobuf.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\ZstdNet.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\System.Memory.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\System.Buffers.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо\bin\Debug\MySql.Data.xml
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.csproj.AssemblyReference.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.exe.config
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.Add_offer.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.Admin.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.DB.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.Form1.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.Master.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.Offers.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.Products.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.Properties.Resources.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.csproj.GenerateResource.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.csproj.CoreCompileInputs.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.csproj.CopyComplete
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.exe
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.pdb
+C:\Users\pomog\Desktop\jewellery Помогайбо\obj\Debug\jewellery.User.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.csproj.AssemblyReference.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.exe.config
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Add_offer.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Admin.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.DB.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Form1.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Offers.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Products.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Properties.Resources.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.User.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.csproj.GenerateResource.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.csproj.CoreCompileInputs.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.exe
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.pdb
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\jewellery.exe.config
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\jewellery.exe
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\jewellery.pdb
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\MySql.Data.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\Google.Protobuf.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\ZstdNet.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\System.Memory.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\System.Buffers.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\MySql.Data.xml
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.csproj.CopyComplete
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Basket.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.csproj.ResolveComReference.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\bin\Debug\MySqlBackup.dll
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\bin\Debug\jewellery.exe.config
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.csproj.ResolveComReference.cache
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.exe
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.pdb
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.csproj.jewellery.exe.config
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Add_offer.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Admin.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Basket.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.DB.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.filterCategory.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.filterProducts.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Form1.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Master.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Offers.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Products.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.Properties.Resources.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.User.resources
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.csproj.GenerateResource.Cache
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\bin\Debug\jewellery.exe
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\bin\Debug\jewellery.pdb
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\bin\Debug\MySqlBackup.dll
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\bin\Debug\System.Memory.dll
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\student.ZAMT\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.csprojResolveAssemblyReference.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо — копия\obj\Debug\jewellery.DataCopy.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\jewellery.exe.config
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\jewellery.exe
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\jewellery.pdb
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\MySql.Data.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\MySqlBackup.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\Google.Protobuf.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\ZstdNet.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\System.Memory.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\System.Buffers.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\bin\Debug\MySql.Data.xml
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.exe.config
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.csproj.ResolveComReference.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.Add_offer.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.Admin.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.Basket.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.DataCopy.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.DB.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.Form1.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.Offers.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.Products.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.Properties.Resources.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.User.resources
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.csproj.GenerateResource.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.csproj.CoreCompileInputs.cache
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.csproj.CopyComplete
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.exe
+C:\Users\pomog\Desktop\jewellery Помогайбо Курсач\obj\Debug\jewellery.pdb

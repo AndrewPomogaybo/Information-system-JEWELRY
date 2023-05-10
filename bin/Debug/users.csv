@@ -1,0 +1,4 @@
+id_user;Логин;Пароль;Роль
+1;admin;admin;admin
+2;user;user;user
+3;master;master;master
